@@ -1,0 +1,14 @@
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\bin\Debug\net8.0\Factorial.exe
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\bin\Debug\net8.0\Factorial.deps.json
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\bin\Debug\net8.0\Factorial.dll
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\bin\Debug\net8.0\Factorial.pdb
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\obj\Debug\net8.0\Factorial.dll
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\obj\Debug\net8.0\Factorial.pdb
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Factorial\obj\Debug\net8.0\ref\Factorial.dll

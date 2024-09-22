@@ -1,0 +1,14 @@
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\bin\Debug\net8.0\Simple_Interest.exe
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\bin\Debug\net8.0\Simple_Interest.deps.json
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\bin\Debug\net8.0\Simple_Interest.runtimeconfig.json
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\bin\Debug\net8.0\Simple_Interest.dll
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\bin\Debug\net8.0\Simple_Interest.pdb
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\obj\Debug\net8.0\Simple_Interest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\obj\Debug\net8.0\Simple_Interest.AssemblyInfoInputs.cache
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\obj\Debug\net8.0\Simple_Interest.AssemblyInfo.cs
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\obj\Debug\net8.0\Simple_Interest.csproj.CoreCompileInputs.cache
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\obj\Debug\net8.0\Simple_Interest.dll
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\obj\Debug\net8.0\refint\Simple_Interest.dll
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\obj\Debug\net8.0\Simple_Interest.pdb
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\obj\Debug\net8.0\Simple_Interest.genruntimeconfig.cache
+D:\Python Projects\Basic_Mathematical_Programs\.NET-Projects\Simple_Interest\obj\Debug\net8.0\ref\Simple_Interest.dll

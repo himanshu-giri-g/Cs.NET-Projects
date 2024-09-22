@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bsc.MathPrograms", "Bsc.MathPrograms", "{9E2158DA-48EE-41B5-94CE-04FB187C8311}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armstrong", "Bsc.MathPrograms\Armstrong\Armstrong.csproj", "{3E6977DF-0CD2-4E29-8120-EF968AD34867}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorial", "Bsc.MathPrograms\Factorial\Factorial.csproj", "{8C7CCCCD-E9CA-4E55-8850-9793630108C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci_series", "Bsc.MathPrograms\Fibonacci_series\Fibonacci_series.csproj", "{DD1204A5-A34F-41F0-83FD-F9D542A28448}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Bsc.MathPrograms\Palindrome\Palindrome.csproj", "{ED58F49F-D2C5-4253-B780-B1220B5BB8AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple_Interest", "Bsc.MathPrograms\Simple_Interest\Simple_Interest.csproj", "{49F69A97-3438-4AF3-8B85-1F6BB1BBA43F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temp_Convt", "Bsc.MathPrograms\Temp_Convt\Temp_Convt.csproj", "{97A79CB7-B6CD-4F11-8EA4-B6CA432AD2B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6977DF-0CD2-4E29-8120-EF968AD34867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6977DF-0CD2-4E29-8120-EF968AD34867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6977DF-0CD2-4E29-8120-EF968AD34867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6977DF-0CD2-4E29-8120-EF968AD34867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7CCCCD-E9CA-4E55-8850-9793630108C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7CCCCD-E9CA-4E55-8850-9793630108C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7CCCCD-E9CA-4E55-8850-9793630108C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7CCCCD-E9CA-4E55-8850-9793630108C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1204A5-A34F-41F0-83FD-F9D542A28448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1204A5-A34F-41F0-83FD-F9D542A28448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1204A5-A34F-41F0-83FD-F9D542A28448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1204A5-A34F-41F0-83FD-F9D542A28448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED58F49F-D2C5-4253-B780-B1220B5BB8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED58F49F-D2C5-4253-B780-B1220B5BB8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED58F49F-D2C5-4253-B780-B1220B5BB8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED58F49F-D2C5-4253-B780-B1220B5BB8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F69A97-3438-4AF3-8B85-1F6BB1BBA43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F69A97-3438-4AF3-8B85-1F6BB1BBA43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F69A97-3438-4AF3-8B85-1F6BB1BBA43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F69A97-3438-4AF3-8B85-1F6BB1BBA43F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A79CB7-B6CD-4F11-8EA4-B6CA432AD2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A79CB7-B6CD-4F11-8EA4-B6CA432AD2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A79CB7-B6CD-4F11-8EA4-B6CA432AD2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A79CB7-B6CD-4F11-8EA4-B6CA432AD2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3E6977DF-0CD2-4E29-8120-EF968AD34867} = {9E2158DA-48EE-41B5-94CE-04FB187C8311}
+		{8C7CCCCD-E9CA-4E55-8850-9793630108C1} = {9E2158DA-48EE-41B5-94CE-04FB187C8311}
+		{DD1204A5-A34F-41F0-83FD-F9D542A28448} = {9E2158DA-48EE-41B5-94CE-04FB187C8311}
+		{ED58F49F-D2C5-4253-B780-B1220B5BB8AA} = {9E2158DA-48EE-41B5-94CE-04FB187C8311}
+		{49F69A97-3438-4AF3-8B85-1F6BB1BBA43F} = {9E2158DA-48EE-41B5-94CE-04FB187C8311}
+		{97A79CB7-B6CD-4F11-8EA4-B6CA432AD2B4} = {9E2158DA-48EE-41B5-94CE-04FB187C8311}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F4D5C0-309F-4D80-9FAF-E3AE65131627}
+	EndGlobalSection
+EndGlobal
