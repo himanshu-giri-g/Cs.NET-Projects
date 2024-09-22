@@ -41,3 +41,4 @@ D:\Projects\Cs.NET-Projects\Bsc.Mathprograms\Armstrong\obj\Debug\net8.0\refint\A
 D:\Projects\Cs.NET-Projects\Bsc.Mathprograms\Armstrong\obj\Debug\net8.0\Armstrong.pdb
 D:\Projects\Cs.NET-Projects\Bsc.Mathprograms\Armstrong\obj\Debug\net8.0\Armstrong.genruntimeconfig.cache
 D:\Projects\Cs.NET-Projects\Bsc.Mathprograms\Armstrong\obj\Debug\net8.0\ref\Armstrong.dll
+D:\Projects\Cs.NET-Projects\Bsc.MathPrograms\Armstrong\obj\Debug\net8.0\Armstrong.sourcelink.json

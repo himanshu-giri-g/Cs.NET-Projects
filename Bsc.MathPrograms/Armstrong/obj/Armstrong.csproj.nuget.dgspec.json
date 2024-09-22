@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Cs.NET-Projects\\Bsc.Mathprograms\\Armstrong\\Armstrong.csproj": {}
+    "D:\\Projects\\Cs.NET-Projects\\Bsc.MathPrograms\\Armstrong\\Armstrong.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Cs.NET-Projects\\Bsc.Mathprograms\\Armstrong\\Armstrong.csproj": {
+    "D:\\Projects\\Cs.NET-Projects\\Bsc.MathPrograms\\Armstrong\\Armstrong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Cs.NET-Projects\\Bsc.Mathprograms\\Armstrong\\Armstrong.csproj",
+        "projectUniqueName": "D:\\Projects\\Cs.NET-Projects\\Bsc.MathPrograms\\Armstrong\\Armstrong.csproj",
         "projectName": "Armstrong",
-        "projectPath": "D:\\Projects\\Cs.NET-Projects\\Bsc.Mathprograms\\Armstrong\\Armstrong.csproj",
+        "projectPath": "D:\\Projects\\Cs.NET-Projects\\Bsc.MathPrograms\\Armstrong\\Armstrong.csproj",
         "packagesPath": "C:\\Users\\himan\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Cs.NET-Projects\\Bsc.Mathprograms\\Armstrong\\obj\\",
+        "outputPath": "D:\\Projects\\Cs.NET-Projects\\Bsc.MathPrograms\\Armstrong\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\himan\\AppData\\Roaming\\NuGet\\NuGet.Config",
