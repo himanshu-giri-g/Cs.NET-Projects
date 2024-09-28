@@ -1,0 +1,15 @@
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\obj\Debug\net8.0\Budgeting-Tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\obj\Debug\net8.0\Budgeting-Tool.AssemblyInfoInputs.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\obj\Debug\net8.0\Budgeting-Tool.AssemblyInfo.cs
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\obj\Debug\net8.0\Budgeting-Tool.csproj.CoreCompileInputs.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\obj\Debug\net8.0\Budgeting-Tool.sourcelink.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\bin\Debug\net8.0\Budgeting-Tool.exe
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\bin\Debug\net8.0\Budgeting-Tool.deps.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\bin\Debug\net8.0\Budgeting-Tool.runtimeconfig.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\bin\Debug\net8.0\Budgeting-Tool.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\bin\Debug\net8.0\Budgeting-Tool.pdb
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\obj\Debug\net8.0\Budgeting-Tool.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\obj\Debug\net8.0\refint\Budgeting-Tool.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\obj\Debug\net8.0\Budgeting-Tool.pdb
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\obj\Debug\net8.0\Budgeting-Tool.genruntimeconfig.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\Budgeting-Tool\obj\Debug\net8.0\ref\Budgeting-Tool.dll

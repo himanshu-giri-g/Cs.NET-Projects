@@ -1,0 +1,15 @@
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\obj\Debug\net8.0\RMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\obj\Debug\net8.0\RMS.AssemblyInfoInputs.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\obj\Debug\net8.0\RMS.AssemblyInfo.cs
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\obj\Debug\net8.0\RMS.csproj.CoreCompileInputs.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\obj\Debug\net8.0\RMS.sourcelink.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\bin\Debug\net8.0\RMS.exe
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\bin\Debug\net8.0\RMS.deps.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\bin\Debug\net8.0\RMS.runtimeconfig.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\bin\Debug\net8.0\RMS.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\bin\Debug\net8.0\RMS.pdb
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\obj\Debug\net8.0\RMS.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\obj\Debug\net8.0\refint\RMS.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\obj\Debug\net8.0\RMS.pdb
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\obj\Debug\net8.0\RMS.genruntimeconfig.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\RMS\obj\Debug\net8.0\ref\RMS.dll

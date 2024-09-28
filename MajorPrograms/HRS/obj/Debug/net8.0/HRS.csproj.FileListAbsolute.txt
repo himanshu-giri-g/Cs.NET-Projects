@@ -1,0 +1,15 @@
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\bin\Debug\net8.0\HRS.exe
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\bin\Debug\net8.0\HRS.deps.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\bin\Debug\net8.0\HRS.runtimeconfig.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\bin\Debug\net8.0\HRS.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\bin\Debug\net8.0\HRS.pdb
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\obj\Debug\net8.0\HRS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\obj\Debug\net8.0\HRS.AssemblyInfoInputs.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\obj\Debug\net8.0\HRS.AssemblyInfo.cs
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\obj\Debug\net8.0\HRS.csproj.CoreCompileInputs.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\obj\Debug\net8.0\HRS.sourcelink.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\obj\Debug\net8.0\HRS.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\obj\Debug\net8.0\refint\HRS.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\obj\Debug\net8.0\HRS.pdb
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\obj\Debug\net8.0\HRS.genruntimeconfig.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\HRS\obj\Debug\net8.0\ref\HRS.dll

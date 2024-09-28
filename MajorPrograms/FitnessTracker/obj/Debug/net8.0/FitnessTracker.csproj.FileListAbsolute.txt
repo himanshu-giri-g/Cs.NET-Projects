@@ -1,0 +1,15 @@
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\bin\Debug\net8.0\FitnessTracker.exe
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\bin\Debug\net8.0\FitnessTracker.deps.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\bin\Debug\net8.0\FitnessTracker.runtimeconfig.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\bin\Debug\net8.0\FitnessTracker.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\bin\Debug\net8.0\FitnessTracker.pdb
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\obj\Debug\net8.0\FitnessTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\obj\Debug\net8.0\FitnessTracker.AssemblyInfoInputs.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\obj\Debug\net8.0\FitnessTracker.AssemblyInfo.cs
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\obj\Debug\net8.0\FitnessTracker.csproj.CoreCompileInputs.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\obj\Debug\net8.0\FitnessTracker.sourcelink.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\obj\Debug\net8.0\FitnessTracker.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\obj\Debug\net8.0\refint\FitnessTracker.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\obj\Debug\net8.0\FitnessTracker.pdb
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\obj\Debug\net8.0\FitnessTracker.genruntimeconfig.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\FitnessTracker\obj\Debug\net8.0\ref\FitnessTracker.dll

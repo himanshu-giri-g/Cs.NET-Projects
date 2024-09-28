@@ -1,0 +1,15 @@
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\bin\Debug\net8.0\MRS.exe
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\bin\Debug\net8.0\MRS.deps.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\bin\Debug\net8.0\MRS.runtimeconfig.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\bin\Debug\net8.0\MRS.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\bin\Debug\net8.0\MRS.pdb
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\obj\Debug\net8.0\MRS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\obj\Debug\net8.0\MRS.AssemblyInfoInputs.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\obj\Debug\net8.0\MRS.AssemblyInfo.cs
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\obj\Debug\net8.0\MRS.csproj.CoreCompileInputs.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\obj\Debug\net8.0\MRS.sourcelink.json
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\obj\Debug\net8.0\MRS.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\obj\Debug\net8.0\refint\MRS.dll
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\obj\Debug\net8.0\MRS.pdb
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\obj\Debug\net8.0\MRS.genruntimeconfig.cache
+D:\Projects\Cs.NET-Projects\MajorPrograms\MRS\obj\Debug\net8.0\ref\MRS.dll
